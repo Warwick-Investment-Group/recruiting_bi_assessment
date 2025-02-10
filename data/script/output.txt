@@ -1,0 +1,7 @@
+=== Dataset Statistics ===
+Total wells: 75
+Total production records: 1800
+Total failure events: 113
+
+=== Wells by Region ===
+{ SCOOP: 21, Merge: 31, STACK: 23 }
